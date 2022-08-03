@@ -30,16 +30,19 @@ To improve the ride sharing services, by providing the afffordability to the und
  
  ![plot1](Images/summary_dataframe.png)
 
-The data analysis indicates that there are fewer rural users for PyBer.
+1. The data analysis indicates that there are fewer rural users for PyBer.
 The average fare per ride is highest for the rural rides.
-This may be a factor for less rural users.
+This may be a factor for less rural users. 
    * If the company can provide discount then there will be more rural users.  
  
-From the analysis, the number of drivers is less in the rural area 
+2. From the analysis, the number of drivers is less in the rural area 
 This might have caused longer waiting time which would have discouraged the users. 
-  * By increasing number of drivers this can be improved.
+   *  By increasing number of drivers this can be improved.
   
-  * The travel distance may be the factor, to determine other factors that are 
+   *  The travel distance may be the factor, to determine other factors that are 
  contributing to the high ride costs in rural cities and low driver fares in urban cities.
   
   ![plot2](Images/PyBer_weekly_fare_summary.png)
+  
+  
+  3. 
