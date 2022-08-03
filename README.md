@@ -36,6 +36,8 @@ To improve the ride sharing services, by providing the afffordability to the und
  
  
  ### Summary:
+ 
+ ![plot1](Images/summary_dataframe.png)
 
 The data analysis indicates that there are fewer rural users for PyBer.
 The average fare per ride is highest for the rural rides.
