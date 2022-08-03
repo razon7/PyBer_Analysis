@@ -25,16 +25,7 @@ To improve the ride sharing services, by providing the afffordability to the und
  From the above results, it is clear that most of PyBer's revenue occurs in Urban cities.
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  
  ### Summary:
  
  ![plot1](Images/summary_dataframe.png)
