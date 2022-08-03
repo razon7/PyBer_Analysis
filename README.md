@@ -25,17 +25,10 @@ To improve the ride sharing services, by providing the afffordability to the und
  From the above results, it is clear that most of PyBer's revenue occurs in Urban cities.
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  
  ### Summary:
+ 
+ ![plot1](Images/summary_dataframe.png)
 
 The data analysis indicates that there are fewer rural users for PyBer.
 The average fare per ride is highest for the rural rides.
@@ -49,3 +42,4 @@ This might have caused longer waiting time which would have discouraged the user
   * The travel distance may be the factor, to determine other factors that are 
  contributing to the high ride costs in rural cities and low driver fares in urban cities.
   
+  ![plot2](Images/PyBer_weekly_fare_summary.png)
