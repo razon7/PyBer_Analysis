@@ -45,4 +45,4 @@ This might have caused longer waiting time which would have discouraged the user
   ![plot2](Images/PyBer_weekly_fare_summary.png)
   
   
-  3. 
+  3. By seeing the line chart, we can conclude the total fare remains stable.
